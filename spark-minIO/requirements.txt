@@ -1,0 +1,3 @@
+findspark
+pandas
+minio
